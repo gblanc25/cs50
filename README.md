@@ -1,5 +1,5 @@
 # cs50
-Website for Gabe's Lab Section of CS50 in Fall 2022. 
+Website for Gabe's Lab Section of CS50 in Fall 2022. 😄
 
 **Teaching Fellow**: Gabe LeBlanc '25 | gleblanc@college.harvard.edu
 

@@ -15,6 +15,8 @@ Website for Gabe's Lab Section of CS50 in Fall 2022. 😄
 
 Sign up for tutorials here! (Link TBD)
 
+**Course Office Hours:** Sundays 3pm-5pm in Widener Library
+
 -----
 
 Each week, look in the corresponding folder in this repository for lab exercises and important info.

@@ -1,3 +1,5 @@
+# Gabe's Tips For Success in CS50
+
 Welcome to CS50! The course can definitely be challenging at times, especially if (like me last year) you've never taken a CS course before. 
 
 Fortunately, the course has a ton of support structures in place to help you, which I've compiled as a list of my best tips for success in CS50:
@@ -19,6 +21,4 @@ Fortunately, the course has a ton of support structures in place to help you, wh
 **8. Above all, don't hesitate to reach out if you need anything,** whether that be me or any of the course heads!
 
 Best of luck this semester :)
-
-Gabe
 

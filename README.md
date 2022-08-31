@@ -5,11 +5,11 @@ Website for Gabe's Lab Section of CS50 in Fall 2022. 😄
 
 -----
 
-**Lab Meeting Time:** TBD
+**My Lab Meeting Time:** TBD
 
 **Lab Location:** TBD
 
-**Tutorial Time:** Fridays at 2pm (but you can go to anyone's tutorial!)
+** My Tutorial Time:** Fridays at 2pm (but you can go to anyone's tutorial!)
 
 **Tutorial Location:** Cabot House Dining Hall
 

@@ -11,7 +11,7 @@ Website for Gabe's Lab Section of CS50 in Fall 2022. 😄
 
 **My Tutorial Time:** Fridays at 2pm
 
-**Tutorial Location:** Cabot House Dining Hall
+**Tutorial Location:** Cabot House Dining Hall (Private Dining Room)
 
 [Sign up for tutorials here - you can sign up for anyone's at any time!](https://harvard.cs50.me/tutorials)
 

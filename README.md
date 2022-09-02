@@ -5,9 +5,9 @@ Website for Gabe's Lab Section of CS50 in Fall 2022. 😄
 
 -----
 
-**My Lab Meeting Time:** TBD
+**My Lab Meeting Time:** Wednesdays at 3:45pm
 
-**Lab Location:** TBD
+**Lab Location:** SEC Room 1.412
 
 **My Tutorial Time:** Fridays at 2pm
 

@@ -10,15 +10,17 @@ Fortunately, the course has a ton of support structures in place to help you, wh
 
 **3. Go to office hours!** Office hours are in Widener on Sundays from 3-5. All 80+ staff members are there to help you, but things can definitely get a bit busy and stressful since psets are due Sunday night. Best to get as much of your pset done as you can before then!
 
-**4. Save your extension, if you can.** Pset 9 is very intensive, and odds are your other classes will be taking up more time by this point too. You may want to save your extension for later in the course!
+**4. Post questions on Ed!** Ed is a great place to get asynchronous online help - post a public or private question and staff or other students will respond and help you out!
 
-**5. Go to lab.** Yes, labs are optional (though strongly encouraged), but they'll walk you through the lab assignments you have to submit and prepare you well for the pset each week!
+**5. Save your extension, if you can.** Pset 9 is very intensive, and odds are your other classes will be taking up more time by this point too. You may want to save your extension for later in the course!
 
-**6. Watch the walkthrough videos.** Very helpful in terms of planning out pseudocode and introducing important syntax!
+**6. Go to lab.** Yes, labs are optional (though strongly encouraged), but they'll walk you through the lab assignments you have to submit and prepare you well for the pset each week!
 
-**7. Get ARC Academic tutoring if wanted.** You can get 2 free hours of tutoring per week at the Academic Resource Center!
+**7. Watch the walkthrough videos.** Very helpful in terms of planning out pseudocode and introducing important syntax!
 
-**8. Above all, don't hesitate to reach out if you need anything,** whether that be me or any of the course heads!
+**8. Get ARC Academic tutoring if wanted.** You can get 2 free hours of tutoring per week at the Academic Resource Center!
+
+**9. Above all, don't hesitate to reach out if you need anything,** whether that be me or any of the course heads!
 
 Best of luck this semester :)
 

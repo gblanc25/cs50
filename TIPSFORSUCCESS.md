@@ -12,7 +12,7 @@ Fortunately, the course has a ton of support structures in place to help you, wh
 
 **4. Post questions on Ed!** Ed is a great place to get asynchronous online help - post a public or private question and staff or other students will respond and help you out!
 
-**5. Save your extension, if you can.** Pset 9 is very intensive, and odds are your other classes will be taking up more time by this point too. You may want to save your extension for later in the course!
+**5. Save your late days, if you can.** Pset 9 is very intensive, and odds are your other classes will be taking up more time by this point too. You may want to save your late days for later in the course!
 
 **6. Go to lab.** Yes, labs are optional (though strongly encouraged), but they'll walk you through the lab assignments you have to submit and prepare you well for the pset each week!
 

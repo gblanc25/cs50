@@ -21,6 +21,6 @@ Website for Gabe's Lab Section of CS50 in Fall 2022. 😄
 
 Each week, look in the corresponding folder in this repository for lab exercises and important info.
 
-**Weekly Feedback Form**: [tinyurl.com/gabecs50feedback](tinyurl.com/gabecs50feedback) 
+**Weekly Feedback Form**: [tinyurl.com/gabecs50feedback](https://tinyurl.com/gabecs50feedback) 
 
 

@@ -1,4 +1,4 @@
-Thanks to Jayden Personnant, another TF this Fall, you can access all extra practice problems via this link:
+Thanks to Jayden Personnat, another TF this Fall, you can access all extra practice problems via this link:
 
 https://github.com/jaydenpersonnat/CS50-Lab-Personnat-Exercises
 

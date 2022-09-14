@@ -9,5 +9,7 @@ Please don't hesitate to reach out with questions!
 Links to get code:
 
 wget https://cs50.tf/college/2022/fall/labs/2/hours/
+
 wget https://cdn.cs50.net/2022/fall/labs/2/no-vowels.c
+
 wget https://cs50.tf/college/2022/fall/labs/2/password/

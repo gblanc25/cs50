@@ -19,8 +19,6 @@ Website for Gabe's Lab Section of CS50 in Fall 2022. 😄
 
 -----
 
-If you'd like extra practice after lab, feel free to check out the link in the EXTRAPRACTICE.md file!
-
 **Weekly Feedback Form**: [tinyurl.com/gabecs50feedback](https://tinyurl.com/gabecs50feedback) 
 
 

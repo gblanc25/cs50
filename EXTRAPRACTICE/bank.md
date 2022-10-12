@@ -9,8 +9,7 @@
 
 <a data-id="" id="demo" style="top: 0px;"></a><h2><a data-id="" href="#demo">Demo</a></h2>
 
-<script async="" data-autoplay="1" data-cols="80" data-loop="1" data-rows="12" id="asciicast-Pes7djS4b1GmwpwqNu2vj6LgY" src="https://asc
-iinema.org/a/Pes7djS4b1GmwpwqNu2vj6LgY.js" data-player="[object HTMLDivElement]"></script><div id="asciicast-container-Pes7djS4b1GmwpwqNu2vj6LgY" class="asciicast" style="display: block; float: none; overflow: hidden; padding: 0px; margin: 20px 0px;"><iframe src="https://asciinema.org/a/Pes7djS4b1GmwpwqNu2vj6LgY/iframe?autoplay=1&amp;loop=1&amp;cols=80&amp;rows=12" id="asciicast-iframe-Pes7djS4b1GmwpwqNu2vj6LgY" name="asciicast-iframe-Pes7djS4b1GmwpwqNu2vj6LgY" scrolling="no" allowfullscreen="true" style="overflow: hidden; margin: 0px; border: 0px; display: inline-block; width: 100%; float: none; visibility: visible; height: 491px;"></iframe></div>
+"https://asciinema.org/a/Pes7djS4b1GmwpwqNu2vj6LgY/iframe?autoplay=1&amp;loop=1&amp;cols=80&amp;rows=12"
 
 <a data-id="" id="before-you-begin" style="top: 0px;"></a><h2><a data-id="" href="#before-you-begin">Before You Begin</a></h2>
 

@@ -22,11 +22,7 @@
   </span></li>
 </ul>
   
-  
-
-<a data-id="" id="demo" style="top: 0px;"></a><h2><a data-id="" href="#demo">Demo</a></h2>
-  
-  ![image](https://user-images.githubusercontent.com/90121815/195691901-8888225d-86ab-4fc1-a2bc-278eefae6d93.png)
+ 
 
 
 <a data-id="" id="getting-started" style="top: 0px;"></a><h2><a data-id="" href="#getting-started">Getting Started</a></h2>

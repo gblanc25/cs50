@@ -9,7 +9,7 @@ Website for Gabe's Lab Section of CS50 in Fall 2022. 😄
 
 **Lab Location:** SEC Room 1.412
 
-**My Tutorial Time:** Fridays at 2pm
+**My Tutorial Time:** Fridays at 2pm (WEEK OF 11/7 ONLY: Saturday at 12pm)
 
 **Tutorial Location:** Cabot House Dining Hall (Private Dining Room)
 

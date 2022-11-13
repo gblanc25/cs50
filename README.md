@@ -1,7 +1,7 @@
 # cs50
-Website for Gabe's Lab Section of CS50 in Fall 2022. 😄
+Archive for Gabe's Lab Section of CS50 in Fall 2022. 😄
 
-**Teaching Fellow**: Gabe LeBlanc '25 | gleblanc@college.harvard.edu
+**Teaching Fellow**: Gabe LeBlanc '25
 
 -----
 
@@ -9,7 +9,7 @@ Website for Gabe's Lab Section of CS50 in Fall 2022. 😄
 
 **Lab Location:** SEC Room 1.412
 
-**My Tutorial Time:** Fridays at 2pm (WEEK OF 11/7 ONLY: Saturday at 12pm)
+**My Tutorial Time:** Fridays at 2pm 
 
 **Tutorial Location:** Cabot House Dining Hall (Private Dining Room)
 
@@ -18,7 +18,5 @@ Website for Gabe's Lab Section of CS50 in Fall 2022. 😄
 **Course Office Hours:** Sundays 3pm-5pm in Widener Library
 
 -----
-
-**Weekly Feedback Form**: [tinyurl.com/gabecs50feedback](https://tinyurl.com/gabecs50feedback) 
 
 

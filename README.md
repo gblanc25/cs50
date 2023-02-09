@@ -8,7 +8,7 @@
 
 **Section**: I help at Emma Humphrey's section on Wednesdays at 6pm. 
 
-**Office Hours**: Wednesdays at 9:00pm and Sundays at 9:00am, both in Cabot Dining Hall. Sign up [here](https://harvard.cs50.me/tutorials).
+**Office Hours**: Wednesdays at 8:45pm in Pierce 301, Sundays at 9am in Cabot Dhall. Sign up [here](https://harvard.cs50.me/tutorials).
 
 **Course-Wide Office Hours**: Sundays from 3-5pm in Widener Library. 
 

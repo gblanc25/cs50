@@ -1,4 +1,4 @@
-# CS50 - Spring 2023
+# 💡💡 Welcome to CS50! 💡💡
 
 **Teaching Fellow**: Gabe LeBlanc '25
 
@@ -6,18 +6,16 @@
 
 -----
 
-**Section**: I help at Emma Humphrey's section on Wednesdays at 6pm. 
+**Section**: TBA. 
 
-**Office Hours**: Wednesdays at 8:45pm in Pierce 301, Sundays at 9am in Cabot Dhall. Sign up [here](https://harvard.cs50.me/tutorials).
+**Office Hours**: TBA. Sign up [here](https://harvard.cs50.me/hours).
 
 **Course-Wide Office Hours**: Sundays from 3-5pm in Widener Library. 
 
 -----
 
-This website is an archive from my Lab Section in Fall of 2022. 
+Explore the links above for my section slides, practice problems, and tips for success. :)
 
-**Feel free to explore the folders above for practice problems, helpful tips, and more.**
-
-In case you'd like it for reference, [here](https://www.youtube.com/watch?v=5Xjh2PQf3XY) was my final project when I took the course. 
+Please [post on Ed](https://cs50.harvard.edu/college/2023/fall/ed/) or email me with questions!
 
 

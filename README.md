@@ -6,7 +6,7 @@
 
 -----
 
-**Section**: Wednesdays 3-5:45 in Northwest B108. 
+**Section**: Wednesdays 3-5:45pm in Northwest B108. 
 
 **Office Hours**: Saturdays at 1pm in Cabot Dining Hall. Sign up [here](https://harvard.cs50.me/hours).
 

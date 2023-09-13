@@ -1,8 +1,10 @@
 # 💡💡 Welcome to CS50! 💡💡
 
-**Teaching Fellow**: Gabe LeBlanc '25
+**Gabe LeBlanc '25**, Head Teaching Fellow
 
-**Email**: gleblanc@college.harvard.edu 
+**Personal Email**: gleblanc@college.harvard.edu 
+
+**Heads Email:** heads@cs50.harvard.edu
 
 -----
 

@@ -2,9 +2,9 @@
 
 **Gabe LeBlanc '25**, Head Teaching Fellow
 
-**Personal Email**: gleblanc@college.harvard.edu 
+Personal Email: gleblanc@college.harvard.edu 
 
-**Heads Email:** heads@cs50.harvard.edu
+Heads Email: heads@cs50.harvard.edu
 
 -----
 

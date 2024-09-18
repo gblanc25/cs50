@@ -8,7 +8,9 @@ Heads Email: heads@cs50.harvard.edu
 
 -----
 
-**Section**: Wednesdays 6-8pm in Northwest B104. 
+_TEMPORARY UPDATE FOR WEEK OF 9/16:_ Section & Office Hours on Zoom; OH now 4-7pm on Thursday.
+
+**Section**: Wednesdays 6-8pm in Northwest B127. 
 
 **Office Hours**: Thursdays at 4pm in HSA 4th Floor. Sign up [here](https://harvard.cs50.me/hours).
 

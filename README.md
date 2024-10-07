@@ -10,7 +10,7 @@ Heads Email: heads@cs50.harvard.edu
 
 **Section**: Wednesdays 6-8pm in Northwest B127. 
 
-**Office Hours**: Thursdays at 4pm in HSA 4th Floor. Sign up [here](https://harvard.cs50.me/hours).
+**Office Hours**: Thursdays at 3pm in HSA 4th Floor. Sign up [here](https://harvard.cs50.me/hours).
 
 **Course-Wide Office Hours**: Sundays from 3-5pm in Widener Library. 
 

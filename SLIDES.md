@@ -9,3 +9,5 @@
 [Week 4: Memory](https://docs.google.com/presentation/d/1DxZlh0vgtvv1fRMbYbJ-4NGkdzSLucbNgGpq_BmgBY4/edit?usp=sharing)
 
 [Week 5: Data Structures](https://docs.google.com/presentation/d/1f0p-HArsceLYziidR7FdQ0fik-GoCfMOvwykq8U7T6o/edit?usp=sharing)
+
+[Week 6: Python](https://docs.google.com/presentation/d/1zwlSRVurkp5jYpKn2ClhigbWPm1VU9O2bLYHl20qLRs/edit?usp=sharing)

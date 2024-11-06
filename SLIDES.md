@@ -13,3 +13,5 @@
 [Week 6: Python](https://docs.google.com/presentation/d/1zwlSRVurkp5jYpKn2ClhigbWPm1VU9O2bLYHl20qLRs/edit?usp=sharing)
 
 [Week 7: SQL](https://docs.google.com/presentation/d/1-AF4eNhaxaRiSX3L9BbZR6A50j6N0Tg-xYc2lLa3kM0/edit?usp=sharing)
+
+[Week 8: Web Development](https://docs.google.com/presentation/d/16KOD3tKZi4BO9BwWBNtZPnOOvzg4aTlfMGD3mI0x1ow/edit?usp=sharing)

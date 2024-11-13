@@ -15,3 +15,5 @@
 [Week 7: SQL](https://docs.google.com/presentation/d/1-AF4eNhaxaRiSX3L9BbZR6A50j6N0Tg-xYc2lLa3kM0/edit?usp=sharing)
 
 [Week 8: Web Development](https://docs.google.com/presentation/d/16KOD3tKZi4BO9BwWBNtZPnOOvzg4aTlfMGD3mI0x1ow/edit?usp=sharing)
+
+[Week 9: Flask](https://docs.google.com/presentation/d/1EXfnv4MIBbmU-g5mPSwHRTBcxWNpAm5tQCt4pN9aM5s/edit?usp=sharing)
